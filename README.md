@@ -1,2 +1,1 @@
-# tindog
-tinder for human best friend;
+TinDog Starting Files
